@@ -1,0 +1,15 @@
+.status {
+	border: 1px solid #00a2ff;
+	border-radius: 4px;
+	border-width: 1px;
+	width: 20%;
+	margin: 20px auto;
+	text-align: center;
+	padding: 0.2%;
+	color: #00a2ff;
+}
+
+.booked {
+	background-color: red;
+	width: 20%;
+}
