@@ -22,7 +22,7 @@ export default class Time extends React.Component {
 
 	closeModal() {
 		this.setState({
-			isOpen:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    false
+			isOpen: false
 		});
 	}
 
